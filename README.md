@@ -23,7 +23,7 @@ To generate a native image of your Spring Boot application, run the following co
 
 ### Skip Tests (Optional)
 ```bash 
-./mvnw -Pnative native:compile
+./mvnw -Pnative native:compile  -DakipTests
 ```
 ### For local Maven usage
 
