@@ -18,7 +18,7 @@ To generate a native image of your Spring Boot application, run the following co
 ```
 ### Alternatively, if you have Maven installed locally
 ```bash
- mvn -Pnative native:cmpile  (-DskipTests ) to  skip Tests
+ mvn -Pnative native:compile  
 ```
 
 ### Skip Tests (Optional)
