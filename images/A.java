@@ -1,0 +1,1 @@
+/home/abdelilah/Pictures/Screenshots/Screenshot from 2024-09-13 14-44-13.png
