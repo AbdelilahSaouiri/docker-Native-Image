@@ -52,7 +52,7 @@ Docker build -t nameOfImage .
 
 ### Run the Docker Container
 ```bash
-docker run -p 8080:8080 nameOfImage
+docker run -p 8085:8080 nameOfImage
 ```
 <img src="./images/4.png">
 
