@@ -81,3 +81,4 @@ cd /mnt/utilisateurs/<username>/<path-to-project> (french version)
 Replace <username> with your Windows username and <path-to-project> with the correct path to your project directory.
 
 Once you're in your project directory within WSL2, you can generate the native image the same way as you would on any Linux environment
+
